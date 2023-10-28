@@ -54,6 +54,7 @@ keybindings.json
 | Open previous editor tab | alt+cmd+left |
 | Move editor tab into next group | ctrl+cmd+right |
 | Move editor tab into previous group | ctrl+cmd+left |
+| Open recently used editor tabs in group | ctrl+tab |
 | Close editor tab | cmd+w |
 | Show Explorer | cmd+shift+e |
 | Show Extensions | cmd+shift+x |
