@@ -69,7 +69,7 @@ settings.json
 ```
 
 Enabled:
-<img width="1887" alt="image" src="https://github.com/liamhennebury/vscode/assets/80056604/adb0ceb5-b113-44aa-af65-8a45a9c8a023">
+<img width="1160" alt="image" src="https://github.com/liamhennebury/vscode/assets/80056604/2c0c9754-4266-4de3-80fa-3448abdca280">
 
 Disabled:
-<img width="1893" alt="image" src="https://github.com/liamhennebury/vscode/assets/80056604/d3145861-2463-422f-bafd-70292c71ac7a">
+<img width="1180" alt="image" src="https://github.com/liamhennebury/vscode/assets/80056604/f032fe8c-cbd0-4e5b-bfb7-c7e012430fdb">
