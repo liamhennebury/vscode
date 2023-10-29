@@ -50,17 +50,19 @@ keybindings.json
 
 | Command | Key binding |
 |:---|:---|
-| Open next editor tab | alt+cmd+right |
-| Open previous editor tab | alt+cmd+left |
+| Open next editor tab * | alt+cmd+right |
+| Open previous editor tab * | alt+cmd+left |
+| Close editor tab * | cmd+w |
 | Move editor tab into next group | ctrl+cmd+right |
 | Move editor tab into previous group | ctrl+cmd+left |
 | Open recently used editor tabs in group | ctrl+tab |
-| Close editor tab | cmd+w |
 | Show Explorer | cmd+shift+e |
 | Show Extensions | cmd+shift+x |
 | Toggle Side Bar (Explorer/Extensions) | cmd+b |
 | Toggle Terminal | ctrl+` |
 | Toggle Panel (Problems/Terminal/etc) | cmd+j |
+
+\* Works as a key shortcut in Chrome browser.
 
 #### Dim all editors, panel, and side bar except the one in focus.
 
