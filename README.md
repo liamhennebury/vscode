@@ -74,7 +74,7 @@ settings.json
 ```
 
 Enabled:
-<img width="1160" alt="image" src="https://github.com/liamhennebury/vscode/assets/80056604/2c0c9754-4266-4de3-80fa-3448abdca280">
+<img width="1160" alt="enabled" src="https://github.com/liamhennebury/vscode/assets/80056604/c5513b5e-b9c5-473e-abf0-b800fca7f949">
 
 Disabled:
-<img width="1180" alt="image" src="https://github.com/liamhennebury/vscode/assets/80056604/f032fe8c-cbd0-4e5b-bfb7-c7e012430fdb">
+<img width="1180" alt="disabled" src="https://github.com/liamhennebury/vscode/assets/80056604/a0471ba5-7a27-439e-be53-d17cf4ed66cc">
