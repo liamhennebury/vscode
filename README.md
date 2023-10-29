@@ -46,7 +46,7 @@ keybindings.json
 }
 ```
 
-#### Builtin key bindings:
+#### Builtin key bindings (\* denotes key binding also works in Chrome) :
 
 | Command | Key binding |
 |:---|:---|
@@ -56,13 +56,14 @@ keybindings.json
 | Move editor tab into next group | ctrl+cmd+right |
 | Move editor tab into previous group | ctrl+cmd+left |
 | Open recently used editor tabs in group | ctrl+tab |
+| Split Editor | cmd+\ |
+| Split Editor Down | cmd+k+\ |
 | Show Explorer | cmd+shift+e |
 | Show Extensions | cmd+shift+x |
-| Toggle Side Bar (Explorer/Extensions) | cmd+b |
+| Show Search | cmd+shift+f |
+| Toggle Side Bar (Explorer/Extensions/Search) | cmd+b |
 | Toggle Terminal | ctrl+` |
 | Toggle Panel (Problems/Terminal/etc) | cmd+j |
-
-\* Works as a key shortcut in Chrome browser.
 
 #### Dim all editors, panel, and side bar except the one in focus.
 
