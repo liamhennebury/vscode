@@ -58,6 +58,7 @@ keybindings.json
 | Open recently used editor tabs in group | ctrl+tab |
 | Split Editor | cmd+\ |
 | Split Editor Down | cmd+k+\ |
+| Open file | cmd+p |
 | Show Explorer | cmd+shift+e |
 | Show Extensions | cmd+shift+x |
 | Show Search | cmd+shift+f |
